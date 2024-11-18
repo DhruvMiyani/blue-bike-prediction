@@ -217,3 +217,8 @@ Conversely, data from the least frequent station posed a greater challenge due t
 
 Key Takeaway
 Bias analysis revealed that without intervention, the model favored data-rich subsets like the most frequent station. By addressing this bias through targeted sampling, the model achieved more balanced performance, demonstrating the importance of equitable data distribution in machine learning applications.
+
+### Feedback Plans
+Google Forms -> Via the web application form the Interface :
+
+
