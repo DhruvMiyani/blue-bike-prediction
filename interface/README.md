@@ -37,4 +37,3 @@ interface/
    npm start
    ```
 
-This will launch your React app in a browser. Let me know if you encounter any issues or need further customization!
