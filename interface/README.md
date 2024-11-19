@@ -5,7 +5,6 @@
 interface/
 ├── public/
 │   ├── index.html
-│   ├── favicon.ico
 ├── src/
 │   ├── components/
 │   │   ├── StationDemand.js
