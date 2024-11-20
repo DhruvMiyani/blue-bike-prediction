@@ -2,6 +2,11 @@
 
 This project aims to predict the demand for BlueBikes using historical data and station information. The goal is to deploy an MLOps pipeline that automates data ingestion, model training, deployment, and retraining. 
 
+<img width="1437" alt="Screenshot-1" src="https://github.com/user-attachments/assets/b3fea283-fe59-477b-aa12-bc9299076449">
+
+
+
+
 ## Project Structure
 - **data/**: Stores raw and processed datasets.
 - **notebooks/**: Contains Jupyter notebooks for data exploration.
